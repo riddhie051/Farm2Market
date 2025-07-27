@@ -17,3 +17,12 @@ Farm2Market was created to:
 
 Technologies Used:-
 **Frontend**: HTML, CSS
+
+How to Use:-
+1. Clone this repository:-
+   https://github.com/riddhie051/Farm2Market.git
+2. Open `firstpage.html` in your browser.
+3.Explore the Platform:-
+   *Browse as a farmer or customer
+   *View the latest news and government schemes
+   *Chat with the integrated AI assistant for help and queries
