@@ -1,0 +1,63 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10%;
+
+}
+
+#box1{
+    display:flex;
+    justify-content: end;
+    align-items: center;
+}
+
+#box{
+    height :50vh;
+    width: 45vh;
+    background-color: antiquewhite;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.5cm;
+    gap: 1rem;
+    position: relative;
+}
+
+#logo{
+    border-radius: 5cm;
+}
+
+
+
+
+#button1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+
+}
+
+#Ist,#IInd{
+    border-radius: 0.2cm;
+}
+
+#icon {
+  top:70px;
+  position: absolute;
+  right: 30px;
+  height: 5%;
+  width: 5%;
+}
